@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\repositories\\reservarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\repositories\\reservarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,64 +11,56 @@
       "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\repositories\\serviciosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\repositories\\serviciosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\views\\reserva\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\reserva\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\views\\reserva\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\reserva\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\views\\reserva\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\reserva\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\views\\reserva\\buscar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\reserva\\buscar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\repositories\\ireservarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\repositories\\ireservarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\bussines\\reservabussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\bussines\\reservabussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\universidad\\septimo cuatrimestre\\practicasgrupo4\\webapplicationapp\\views\\servicios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -126,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,7 +122,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\appsettings.Development.json",
+              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\appsettings.Development.json",
+              "RelativeToolTip": "WebApplicationAPP\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-28T04:59:46.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplicationAPP\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-28T04:50:11.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\appsettings.json",
+              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\appsettings.json",
+              "RelativeToolTip": "WebApplicationAPP\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-28T04:48:48.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplicationAPP\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-28T04:48:46.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplicationAPP\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-28T04:48:44.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "WebApplicationAPP\\Repositories\\UserRepository.cs",
@@ -143,32 +196,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-28T04:18:21.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Repositories\\IUserRepository.cs",
-              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "WebApplicationAPP\\Repositories\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T04:17:26.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ReservaRepository.cs",
-              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Repositories\\ReservaRepository.cs",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Repositories\\ReservaRepository.cs",
-              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Repositories\\ReservaRepository.cs",
-              "RelativeToolTip": "WebApplicationAPP\\Repositories\\ReservaRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAIAywB4AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T03:07:51.454Z",
               "EditorCaption": ""
             },
             {
@@ -186,26 +213,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Models\\User.cs",
               "RelativeDocumentMoniker": "WebApplicationAPP\\Models\\User.cs",
               "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Models\\User.cs",
               "RelativeToolTip": "WebApplicationAPP\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-28T04:09:03.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "WebApplicationAPP\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T04:17:26.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplicationAPP\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-28T04:50:15.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "WebApplicationAPP\\Data\\AppDbContext.cs",
               "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Data\\AppDbContext.cs",
               "RelativeToolTip": "WebApplicationAPP\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-27T00:27:33.54Z",
               "EditorCaption": ""
@@ -213,45 +266,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Views\\User\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\User\\Create.cshtml",
-              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Views\\User\\Create.cshtml",
-              "RelativeToolTip": "WebApplicationAPP\\Views\\User\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-28T04:21:42.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Views\\User\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\User\\Index.cshtml",
-              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Views\\User\\Index.cshtml",
-              "RelativeToolTip": "WebApplicationAPP\\Views\\User\\Index.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAkwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-28T04:21:01.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Program.cs",
-              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Program.cs",
-              "RelativeToolTip": "WebApplicationAPP\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T04:18:49.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "ServiciosRepository.cs",
               "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Repositories\\ServiciosRepository.cs",
               "RelativeDocumentMoniker": "WebApplicationAPP\\Repositories\\ServiciosRepository.cs",
@@ -264,93 +278,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Views\\Reserva\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Reserva\\Index.cshtml",
-              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Views\\Reserva\\Index.cshtml",
-              "RelativeToolTip": "WebApplicationAPP\\Views\\Reserva\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAALAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\User\\Create.cshtml",
+              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "WebApplicationAPP\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-27T00:15:28.765Z",
+              "WhenOpened": "2026-02-28T04:21:42.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "WebApplicationAPP\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-28T04:21:01.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Views\\Reserva\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Reserva\\Create.cshtml",
-              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Views\\Reserva\\Create.cshtml",
-              "RelativeToolTip": "WebApplicationAPP\\Views\\Reserva\\Create.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-27T00:14:58.725Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Buscar.cshtml",
-              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Views\\Reserva\\Buscar.cshtml",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Reserva\\Buscar.cshtml",
-              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Views\\Reserva\\Buscar.cshtml",
-              "RelativeToolTip": "WebApplicationAPP\\Views\\Reserva\\Buscar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-27T00:13:54.433Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Detalle.cshtml",
-              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Views\\Reserva\\Detalle.cshtml",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Reserva\\Detalle.cshtml",
-              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Views\\Reserva\\Detalle.cshtml",
-              "RelativeToolTip": "WebApplicationAPP\\Views\\Reserva\\Detalle.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-27T00:14:07.041Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\Program.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Program.cs",
+              "RelativeToolTip": "WebApplicationAPP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T04:18:49.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Reserva.cs",
-              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Models\\Reserva.cs",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Models\\Reserva.cs",
-              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Models\\Reserva.cs",
-              "RelativeToolTip": "WebApplicationAPP\\Models\\Reserva.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T00:12:18.99Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ReservaBussines.cs",
-              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Bussines\\ReservaBussines.cs",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Bussines\\ReservaBussines.cs",
-              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Bussines\\ReservaBussines.cs",
-              "RelativeToolTip": "WebApplicationAPP\\Bussines\\ReservaBussines.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T00:13:06.921Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IReservaRepository.cs",
-              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Repositories\\IReservaRepository.cs",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Repositories\\IReservaRepository.cs",
-              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Repositories\\IReservaRepository.cs",
-              "RelativeToolTip": "WebApplicationAPP\\Repositories\\IReservaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T00:12:38.368Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 15,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Views\\Servicios\\Create.cshtml",
               "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Servicios\\Create.cshtml",
@@ -362,19 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ReservaController.cs",
-              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Controllers\\ReservaController.cs",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Controllers\\ReservaController.cs",
-              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Controllers\\ReservaController.cs",
-              "RelativeToolTip": "WebApplicationAPP\\Controllers\\ReservaController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAmwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T00:13:25.072Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 16,
               "Title": "IServiciosRepository.cs",
               "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Repositories\\IServiciosRepository.cs",
               "RelativeDocumentMoniker": "WebApplicationAPP\\Repositories\\IServiciosRepository.cs",
@@ -386,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 17,
               "Title": "ServiciosController.cs",
               "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Controllers\\ServiciosController.cs",
               "RelativeDocumentMoniker": "WebApplicationAPP\\Controllers\\ServiciosController.cs",
@@ -398,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 18,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Views\\Servicios\\Edit.cshtml",
               "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Servicios\\Edit.cshtml",
@@ -410,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 20,
               "Title": "Servicios.cs",
               "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Models\\Servicios.cs",
               "RelativeDocumentMoniker": "WebApplicationAPP\\Models\\Servicios.cs",
@@ -422,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 21,
               "Title": "Persona.cs",
               "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Models\\Persona.cs",
               "RelativeDocumentMoniker": "WebApplicationAPP\\Models\\Persona.cs",
@@ -434,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 22,
               "Title": "CalculadoraViewModel.cs",
               "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Models\\CalculadoraViewModel.cs",
               "RelativeDocumentMoniker": "WebApplicationAPP\\Models\\CalculadoraViewModel.cs",
@@ -446,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 23,
               "Title": "Clientes.cs",
               "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Models\\Clientes.cs",
               "RelativeDocumentMoniker": "WebApplicationAPP\\Models\\Clientes.cs",
@@ -458,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 19,
               "Title": "ServiciosBussiness.cs",
               "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Bussines\\ServiciosBussiness.cs",
               "RelativeDocumentMoniker": "WebApplicationAPP\\Bussines\\ServiciosBussiness.cs",
@@ -470,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 24,
               "Title": "Inactivar.cshtml",
               "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Views\\Servicios\\Inactivar.cshtml",
               "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Servicios\\Inactivar.cshtml",
@@ -482,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 25,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\Views\\Servicios\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Servicios\\Index.cshtml",
