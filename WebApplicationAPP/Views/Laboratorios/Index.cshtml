@@ -1,0 +1,69 @@
+@page
+@model WebApplicationApp.Views.Laboratorios.IndexModel
+
+
+<h2>Gestión de Laboratorios</h2>
+
+<form method="post">
+    <div class="mb-3">
+        <input class="form-control"
+               name="Name"
+               placeholder="Nombre del laboratorio"
+               required />
+    </div>
+
+    <div class="mb-3">
+        <input class="form-control"
+               type="number"
+               name="Capacity"
+               placeholder="Capacidad"
+               required />
+    </div>
+
+    <div class="mb-3">
+        <input class="form-control"
+               name="Responsible"
+               placeholder="Responsable"
+               required />
+    </div>
+
+    <button class="btn btn-primary">
+        Agregar Laboratorio
+    </button>
+</form>
+
+<hr />
+
+<h3>Laboratorios Registrados</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nombre</th>
+            <th>Capacidad</th>
+            <th>Responsable</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach(var lab in Model.Laboratories)
+{
+        <tr>
+            <td>@lab.Id</td>
+            <td>@lab.Name</td>
+            <td>@lab.Capacity</td>
+            <td>@lab.Responsible</td>
+            <td>
+                <form method="post" asp-page-handler="Delete">
+                    <input type="hidden" name="id" value="@lab.Id" />
+                    <button class="btn btn-danger">
+                        Eliminar
+                    </button>
+                </form>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
