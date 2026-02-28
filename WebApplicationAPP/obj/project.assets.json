@@ -1471,23 +1471,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Pablo\\.nuget\\packages\\": {},
+    "C:\\Users\\Maxz\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\WebApplicationAPP.csproj",
+      "projectUniqueName": "H:\\Universidad\\Programacion Avanzada\\Repos\\WebApplicationAPP\\WebApplicationAPP.csproj",
       "projectName": "WebApplicationAPP",
-      "projectPath": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\WebApplicationAPP.csproj",
-      "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
-      "outputPath": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\obj\\",
+      "projectPath": "H:\\Universidad\\Programacion Avanzada\\Repos\\WebApplicationAPP\\WebApplicationAPP.csproj",
+      "packagesPath": "C:\\Users\\Maxz\\.nuget\\packages\\",
+      "outputPath": "H:\\Universidad\\Programacion Avanzada\\Repos\\WebApplicationAPP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Maxz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1496,7 +1496,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

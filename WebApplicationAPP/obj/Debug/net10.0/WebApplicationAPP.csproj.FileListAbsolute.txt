@@ -1443,3 +1443,17 @@ C:\Users\Pablo\Downloads\CasoPractico-1-main\CasoPractico-1-main\WebApplicationA
 C:\Users\Pablo\Downloads\CasoPractico-1-main\CasoPractico-1-main\WebApplicationAPP\WebApplicationAPP\obj\Debug\net10.0\WebApplicationAPP.genruntimeconfig.cache
 C:\Users\Pablo\Downloads\CasoPractico-1-main\CasoPractico-1-main\WebApplicationAPP\WebApplicationAPP\obj\Debug\net10.0\ref\WebApplicationAPP.dll
 C:\Users\Pablo\Downloads\CasoPractico-1-main\CasoPractico-1-main\WebApplicationAPP\WebApplicationAPP\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+H:\Universidad\Programacion Avanzada\Repos\WebApplicationAPP\obj\Debug\net10.0\WebApplicationAPP.csproj.AssemblyReference.cache
+H:\Universidad\Programacion Avanzada\Repos\WebApplicationAPP\obj\Debug\net10.0\rpswa.dswa.cache.json
+H:\Universidad\Programacion Avanzada\Repos\WebApplicationAPP\obj\Debug\net10.0\WebApplicationAPP.GeneratedMSBuildEditorConfig.editorconfig
+H:\Universidad\Programacion Avanzada\Repos\WebApplicationAPP\obj\Debug\net10.0\WebApplicationAPP.AssemblyInfoInputs.cache
+H:\Universidad\Programacion Avanzada\Repos\WebApplicationAPP\obj\Debug\net10.0\WebApplicationAPP.AssemblyInfo.cs
+H:\Universidad\Programacion Avanzada\Repos\WebApplicationAPP\obj\Debug\net10.0\WebApplicationAPP.csproj.CoreCompileInputs.cache
+H:\Universidad\Programacion Avanzada\Repos\WebApplicationAPP\obj\Debug\net10.0\WebApplicationAPP.MvcApplicationPartsAssemblyInfo.cs
+H:\Universidad\Programacion Avanzada\Repos\WebApplicationAPP\obj\Debug\net10.0\WebApplicationAPP.MvcApplicationPartsAssemblyInfo.cache
+H:\Universidad\Programacion Avanzada\Repos\WebApplicationAPP\obj\Debug\net10.0\WebApplicationAPP.RazorAssemblyInfo.cache
+H:\Universidad\Programacion Avanzada\Repos\WebApplicationAPP\obj\Debug\net10.0\WebApplicationAPP.RazorAssemblyInfo.cs
+H:\Universidad\Programacion Avanzada\Repos\WebApplicationAPP\obj\Debug\net10.0\WebApplicationAPP.sourcelink.json
+H:\Universidad\Programacion Avanzada\Repos\WebApplicationAPP\obj\Debug\net10.0\WebApplicationAPP.dll
+H:\Universidad\Programacion Avanzada\Repos\WebApplicationAPP\obj\Debug\net10.0\refint\WebApplicationAPP.dll
+H:\Universidad\Programacion Avanzada\Repos\WebApplicationAPP\obj\Debug\net10.0\WebApplicationAPP.pdb
