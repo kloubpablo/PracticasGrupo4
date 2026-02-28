@@ -1443,3 +1443,17 @@ C:\Users\Pablo\Downloads\CasoPractico-1-main\CasoPractico-1-main\WebApplicationA
 C:\Users\Pablo\Downloads\CasoPractico-1-main\CasoPractico-1-main\WebApplicationAPP\WebApplicationAPP\obj\Debug\net10.0\WebApplicationAPP.genruntimeconfig.cache
 C:\Users\Pablo\Downloads\CasoPractico-1-main\CasoPractico-1-main\WebApplicationAPP\WebApplicationAPP\obj\Debug\net10.0\ref\WebApplicationAPP.dll
 C:\Users\Pablo\Downloads\CasoPractico-1-main\CasoPractico-1-main\WebApplicationAPP\WebApplicationAPP\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\UNIVERSIDAD\septimo cuatrimestre\PracticasGrupo4\WebApplicationAPP\obj\Debug\net10.0\WebApplicationAPP.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\septimo cuatrimestre\PracticasGrupo4\WebApplicationAPP\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\UNIVERSIDAD\septimo cuatrimestre\PracticasGrupo4\WebApplicationAPP\obj\Debug\net10.0\WebApplicationAPP.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSIDAD\septimo cuatrimestre\PracticasGrupo4\WebApplicationAPP\obj\Debug\net10.0\WebApplicationAPP.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\septimo cuatrimestre\PracticasGrupo4\WebApplicationAPP\obj\Debug\net10.0\WebApplicationAPP.AssemblyInfo.cs
+D:\UNIVERSIDAD\septimo cuatrimestre\PracticasGrupo4\WebApplicationAPP\obj\Debug\net10.0\WebApplicationAPP.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\septimo cuatrimestre\PracticasGrupo4\WebApplicationAPP\obj\Debug\net10.0\WebApplicationAPP.MvcApplicationPartsAssemblyInfo.cs
+D:\UNIVERSIDAD\septimo cuatrimestre\PracticasGrupo4\WebApplicationAPP\obj\Debug\net10.0\WebApplicationAPP.MvcApplicationPartsAssemblyInfo.cache
+D:\UNIVERSIDAD\septimo cuatrimestre\PracticasGrupo4\WebApplicationAPP\obj\Debug\net10.0\WebApplicationAPP.RazorAssemblyInfo.cache
+D:\UNIVERSIDAD\septimo cuatrimestre\PracticasGrupo4\WebApplicationAPP\obj\Debug\net10.0\WebApplicationAPP.RazorAssemblyInfo.cs
+D:\UNIVERSIDAD\septimo cuatrimestre\PracticasGrupo4\WebApplicationAPP\obj\Debug\net10.0\WebApplicationAPP.sourcelink.json
+D:\UNIVERSIDAD\septimo cuatrimestre\PracticasGrupo4\WebApplicationAPP\obj\Debug\net10.0\WebApplicationAPP.dll
+D:\UNIVERSIDAD\septimo cuatrimestre\PracticasGrupo4\WebApplicationAPP\obj\Debug\net10.0\refint\WebApplicationAPP.dll
+D:\UNIVERSIDAD\septimo cuatrimestre\PracticasGrupo4\WebApplicationAPP\obj\Debug\net10.0\WebApplicationAPP.pdb

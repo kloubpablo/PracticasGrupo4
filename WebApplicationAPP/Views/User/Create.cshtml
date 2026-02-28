@@ -1,0 +1,29 @@
+﻿@model WebApplicationAPP.Models.User
+
+<h2>Crear Usuario</h2>
+
+<form asp-action="Create" method="post">
+
+	<div>
+		<label>Nombre</label>
+		<input asp-for="Nombre" class="form-control" />
+	</div>
+
+	<div>
+		<label>Tipo</label>
+		<select asp-for="Tipo" class="form-control">
+			<option>Estudiante</option>
+			<option>Profesor</option>
+		</select>
+	</div>
+
+	<div>
+		<label>Correo</label>
+		<input asp-for="Correo" class="form-control" />
+	</div>
+
+	<button class="btn btn-success">
+		Guardar
+	</button>
+
+</form>

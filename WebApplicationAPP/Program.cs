@@ -40,6 +40,8 @@ builder.Services.AddScoped<IServiciosRepository, ServiciosRepository>();
 //Repositorio
 //CapaBussine
 
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+
 
 var app = builder.Build();
 
