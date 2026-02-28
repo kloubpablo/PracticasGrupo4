@@ -1,0 +1,47 @@
+﻿@model WebApplicationAPP.Models.CalculadoraViewModel
+
+<form asp-action="Index" method="post">
+    <div class="input-group mb-3">
+        <input asp-for="valor1" type="number" class="form-control" placeholder="Numeros" aria-label="Recipient's username" aria-describedby="basic-addon2">
+        <span class="input-group-text" id="basic-addon2">Dato 1</span>
+    </div>
+
+    <div class="input-group mb-3">
+        <input asp-for="valor2" type="number" class="form-control" placeholder="Numeros" aria-label="Recipient's username" aria-describedby="basic-addon2">
+        <span class="input-group-text" id="basic-addon2">Dato 2</span>
+    </div>
+
+
+    <div class="input-group mb-3">
+        <select asp-for="operacion">
+            <option value="">Selecciona tu operacion</option>
+            <option value="suma">Suma</option>
+            <option value="value">text</option>
+            <option value="value">text</option>
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-secondary">Calcular</button>
+</form>
+
+
+@if (Model.resultado != null)
+{
+    <div class="alert alert-info" role="alert">
+        El resultado es: @Model.resultado
+    </div>
+}
+
+
+@* <button type="button" onclick="calcular('suma')'" class="btn btn-primary">Sumar</button>
+<button type="button" class="btn btn-secondary">Secondary</button>
+<button type="button" class="btn btn-success">Success</button>
+<button type="button" class="btn btn-danger">Danger</button> *@
+@* 
+
+
+        public double valor1 { get; set; }
+
+        public double valor2 { get; set; }
+
+        public double resultado { get; set; } *@

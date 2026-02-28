@@ -1,0 +1,167 @@
+is_global = true
+build_property.TargetFramework = net10.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v10.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplicationAPP
+build_property.RootNamespace = WebApplicationAPP
+build_property.ProjectDir = C:\Users\Pablo\Downloads\CasoPractico-1-main\CasoPractico-1-main\WebApplicationAPP\WebApplicationAPP\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\Pablo\Downloads\CasoPractico-1-main\CasoPractico-1-main\WebApplicationAPP\WebApplicationAPP
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 10.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Calculadora/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY3VsYWRvcmFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Clientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Clientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Clientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Clientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Clientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Inventario/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50YXJpb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Inventario/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50YXJpb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Inventario/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50YXJpb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Inventario/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50YXJpb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Inventario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50YXJpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Persona/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Persona/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Persona/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Persona/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Persona/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Producto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Producto/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Producto/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Producto/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Producto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Reserva/Buscar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YVxCdXNjYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Reserva/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Reserva/Detalle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YVxEZXRhbGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Reserva/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Servicios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Servicios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Servicios/Inactivar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXEluYWN0aXZhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Servicios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Downloads/CasoPractico-1-main/CasoPractico-1-main/WebApplicationAPP/WebApplicationAPP/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-xlj9pnfa1v

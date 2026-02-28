@@ -1,0 +1,21 @@
+@model WebApplicationAPP.Models.Reserva
+
+<h2>Detalle Reserva</h2>
+<hr />
+
+<p><b>Nombre:</b> @Model.NombreDelAsociado</p>
+<p><b>Telefono:</b> @Model.Telefono</p>
+<p><b>Correo:</b> @Model.Correo</p>
+<p><b>Identificacion:</b> @Model.Identificacion</p>
+<p><b>Direccion:</b> @Model.Direccion</p>
+
+<hr />
+
+<p><b>Servicio:</b> @Model.Servicio.Nombre</p>
+<p><b>Encargado:</b> @Model.Servicio.Encargado</p>
+
+<p><b>Monto Total:</b> ₡@Model.MontoTotal</p>
+<p><b>Fecha Servicio:</b> @Model.FechaDelServicio</p>
+<p><b>Fecha Registro:</b> @Model.FechaDeRegistro</p>
+
+<a asp-action="Index" class="btn btn-secondary">Volver</a>

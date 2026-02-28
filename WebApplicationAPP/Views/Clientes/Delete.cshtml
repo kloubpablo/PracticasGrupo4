@@ -1,0 +1,41 @@
+﻿@model WebApplicationAPP.Models.Clientes
+
+<h1>Eliminar Cliente</h1>
+<p>¿Desea eliminar el cliente?</p>
+
+<form method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="mb-3">
+        <label asp-for="Nombre" class="form-label">Nombre</label>
+        <input asp-for="Nombre" class="form-control" readonly />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Correo" class="form-label">Correo</label>
+        <input asp-for="Correo" class="form-control" readonly />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Telefono" class="form-label">Teléfono</label>
+        <input asp-for="Telefono" class="form-control" readonly />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Direccion" class="form-label">Dirección</label>
+        <input asp-for="Direccion" class="form-control" readonly />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="FechaRegistro" class="form-label">Fecha de Registro</label>
+        <input asp-for="FechaRegistro" class="form-control" readonly />
+    </div>
+
+    <div class="form-check mb-3">
+        <input asp-for="Estado" class="form-check-input" type="checkbox" disabled />
+        <label asp-for="Estado" class="form-check-label">Activo</label>
+    </div>
+
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a asp-action="Index" class="btn btn-secondary ms-2">Cancelar</a>
+</form>

@@ -1,0 +1,33 @@
+﻿@model WebApplicationAPP.Models.Clientes
+
+<h1>Detalles</h1>
+
+<p>
+    Id: @Model.Id
+</p>
+
+<p>
+    Nombre: @Model.Nombre
+</p>
+
+<p>
+    Correo: @Model.Correo
+</p>
+
+<p>
+    Teléfono: @Model.Telefono
+</p>
+
+<p>
+    Dirección: @Model.Direccion
+</p>
+
+<p>
+    Fecha de Registro: @Model.FechaRegistro.ToString("dd/MM/yyyy")
+</p>
+
+<p>
+    Estado: @(Model.Estado ? "Activo" : "Inactivo")
+</p>
+
+<a asp-action="Index">Regresar a la lista</a>

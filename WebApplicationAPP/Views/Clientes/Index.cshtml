@@ -1,0 +1,53 @@
+﻿@model IEnumerable<WebApplicationAPP.Models.Clientes>
+
+@{
+    ViewBag.Title = "Lista de Clientes";
+}
+
+<h2>Lista de Clientes</h2>
+
+<a class="btn btn-primary"
+   asp-action="Create"
+   role="button">Registrar Cliente</a>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nombre</th>
+            <th>Correo</th>
+            <th>Teléfono</th>
+            <th>Dirección</th>
+            <th>Estado</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Nombre</td>
+                <td>@item.Correo</td>
+                <td>@item.Telefono</td>
+                <td>@item.Direccion</td>
+                <td>
+                    @(item.Estado ? "Activo" : "Inactivo")</td>
+                <td>
+                    <a class="btn btn-success"
+                       asp-action="Details" asp-route-id="@item.Id"
+                       role="button">Detalles</a>
+
+                    <a class="btn btn-warning"
+                       asp-action="Edit" asp-route-id="@item.Id"
+                       role="button">Editar</a>
+
+                    <a class="btn btn-danger"
+                       asp-action="Delete" asp-route-id="@item.Id"
+                       role="button">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

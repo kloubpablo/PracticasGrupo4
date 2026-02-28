@@ -1,0 +1,67 @@
+﻿@model IEnumerable<WebApplicationAPP.Models.Servicios>
+
+@{
+    ViewBag.Title = "Listado de Servicios";
+}
+
+<h2>Listado de Servicios</h2>
+
+<a class="btn btn-primary"
+    
+    asp-action="Create"
+    role="button">Crear</a>
+
+<a class="btn btn-primary mx-5"
+    asp-controller="Reservas"
+    asp-action="Index"
+    role="button"
+    >Ir a Reservas</a>
+
+<table class="table table-striped mt-3">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nombre</th>
+            <th>Monto</th>
+            <th>IVA</th>
+            <th>Área</th>
+            <th>Encargado</th>
+            <th>Sucursal</th>
+            <th>Estado</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var servicio in Model)
+        {
+            <tr>
+                <td>@servicio.Id</td>
+                <td>@servicio.Nombre</td>
+                <td>@servicio.Monto.ToString("C")</td>
+                <td>@servicio.IVA.ToString("C")</td>
+                <td>@servicio.AreaServicio</td>
+                <td>@servicio.Encargado</td>
+                <td>@servicio.Sucursal</td>
+                <td>
+                    @(servicio.Estado ? "Activo" : "Inactivo")
+                </td>
+                <td>
+                    <a class="btn btn-success"
+                       asp-action="Details"
+                       asp-route-id="@servicio.Id"
+                       role="button">Detalles</a>
+
+                    <a class="btn btn-warning"
+                       asp-action="Edit"
+                       asp-route-id="@servicio.Id"
+                       role="button">Editar</a>
+
+                    <a class="btn btn-danger"
+                       asp-action="Inactivar"
+                       asp-route-id="@servicio.Id"
+                       role="button">Inactivar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
