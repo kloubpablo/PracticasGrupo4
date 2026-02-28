@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\WebApplicationAPP.csproj": {}
+    "D:\\Universidad\\Primer Cutrimestre 2026\\Progra Avanzada\\PracticasGrupo4\\WebApplicationAPP\\WebApplicationAPP.csproj": {}
   },
   "projects": {
-    "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\WebApplicationAPP.csproj": {
+    "D:\\Universidad\\Primer Cutrimestre 2026\\Progra Avanzada\\PracticasGrupo4\\WebApplicationAPP\\WebApplicationAPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\WebApplicationAPP.csproj",
+        "projectUniqueName": "D:\\Universidad\\Primer Cutrimestre 2026\\Progra Avanzada\\PracticasGrupo4\\WebApplicationAPP\\WebApplicationAPP.csproj",
         "projectName": "WebApplicationAPP",
-        "projectPath": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\WebApplicationAPP.csproj",
-        "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
-        "outputPath": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\PracticasGrupo4\\WebApplicationAPP\\obj\\",
+        "projectPath": "D:\\Universidad\\Primer Cutrimestre 2026\\Progra Avanzada\\PracticasGrupo4\\WebApplicationAPP\\WebApplicationAPP.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "D:\\Universidad\\Primer Cutrimestre 2026\\Progra Avanzada\\PracticasGrupo4\\WebApplicationAPP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -85,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

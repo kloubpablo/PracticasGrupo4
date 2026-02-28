@@ -1,0 +1,58 @@
+﻿@model WebApplicationAPP.Models.Reserva
+
+@{
+    ViewBag.Title = "Eliminar Reserva";
+}
+
+<h2>Eliminar Reserva</h2>
+
+<form asp-action="Delete" method="post">
+
+    <!-- ID oculto (ES OBLIGATORIO para el POST) -->
+    <input type="hidden" asp-for="IdReserva" />
+
+    <div class="mb-3">
+        <label class="form-label">Usuario</label>
+        <input type="text"
+               class="form-control"
+               asp-for="User.Nombre"
+               disabled />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Laboratorio</label>
+        <input type="text"
+               class="form-control"
+               asp-for="Laboratory.Nombre"
+               disabled />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Encargado</label>
+        <input type="text"
+               class="form-control"
+               asp-for="Laboratory.Responsable"
+               disabled />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Fecha y Hora</label>
+        <input type="text"
+               class="form-control"
+               value="@Model.FechaHora.ToString("dd/MM/yyyy HH:mm")"
+               disabled />
+    </div>
+
+    <div class="mb-3">
+        <button type="submit" class="btn btn-danger">
+            Eliminar
+        </button>
+
+        <a asp-action="Index"
+           class="btn btn-light"
+           role="button">
+            Cancelar
+        </a>
+    </div>
+
+</form>

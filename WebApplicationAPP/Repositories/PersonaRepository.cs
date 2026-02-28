@@ -41,5 +41,9 @@ namespace WebApplicationAPP.Repositories
             }
         }
 
+        public void DeleteReserva(int id)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

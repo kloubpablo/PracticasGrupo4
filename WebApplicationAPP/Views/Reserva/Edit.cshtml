@@ -1,0 +1,47 @@
+﻿@model WebApplicationAPP.Models.Reserva
+
+@{
+    ViewBag.Title = "Editar Reserva";
+}
+
+<h2>Editar Reserva</h2>
+
+<form asp-action="Edit" method="post">
+
+    <div class="mb-3">
+        <label asp-for="IdReserva" class="form-label"></label>
+        <input asp-for="IdReserva" class="form-control" disabled />
+        <input type="hidden" asp-for="IdReserva" />
+    </div>
+
+
+    <div class="mb-3">
+        <label asp-for="IdUsuario" class="form-label"></label>
+        <select asp-for="IdUsuario" class="form-select" asp-items="ViewBag.Usuarios">
+            <option value="">-- Seleccione un usuario --</option>
+        </select>
+        <small class="form-text text-muted">Seleccione el usuario que realiza la reserva</small>
+    </div>
+
+
+    <div class="mb-3">
+        <label asp-for="IdLaboratorio" class="form-label"></label>
+        <select asp-for="IdLaboratorio" class="form-select" asp-items="ViewBag.Laboratorios">
+            <option value="">-- Seleccione un laboratorio --</option>
+        </select>
+        <small class="form-text text-muted">Seleccione el laboratorio</small>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="FechaHora" class="form-label"></label>
+        <input asp-for="FechaHora" class="form-control" type="datetime-local" />
+        <small class="form-text text-muted">Seleccione la fecha y hora de la reserva</small>
+    </div>
+
+
+    <div class="mb-3">
+        <a asp-action="Index" class="btn btn-danger" role="button">Cancelar</a>
+        <button type="submit" class="btn btn-primary">Guardar</button>
+    </div>
+
+</form>

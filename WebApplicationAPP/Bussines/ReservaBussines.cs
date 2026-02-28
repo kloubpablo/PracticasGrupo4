@@ -1,4 +1,5 @@
 using WebApplicationAPP.Models;
+using System.Collections.Generic;
 
 public class ReservaBussines
 {
@@ -9,24 +10,12 @@ public class ReservaBussines
         _repo = repo;
     }
 
-    public List<Reserva> Listar()
-        => _repo.Listar();
+    public List<Reserva> Listar() => _repo.Listar();
+    public Reserva Buscar(int id) => _repo.BuscarPorId(id);
+    public void AddReserva(Reserva reserva) => _repo.AddReserva(reserva);
+    public void EditReserva(Reserva reserva) => _repo.EditReserva(reserva);
+    public void DeleteReserva(int id) => _repo.Eliminar(id);
 
-    public Reserva Buscar(int id)
-        => _repo.BuscarPorId(id);
-
-    public List<Servicios> ListarServiciosActivos()
-        => _repo.ListarServiciosActivos();
-
-    public void AddReserva(Reserva reserva)
-    {
-        var servicio = _repo.ObtenerServicio(reserva.IdServicio);
-
-        ///////Calculo automático del monto total//////////
-        reserva.MontoTotal = (servicio.Monto * servicio.IVA) + servicio.Monto;
-
-        reserva.FechaDeRegistro = DateTime.Now;
-
-        _repo.AddReserva(reserva); 
-    }
+    public List<User> ListarUsuarios() => _repo.ListarUsuarios();
+    public List<Laboratory> ListarLaboratorios() => _repo.ListarLaboratorios();
 }

@@ -3,7 +3,6 @@
 <h2>Listado de Reservas</h2>
 
 <a class="btn btn-success" asp-action="Create">Crear Reserva</a>
-<a class="btn btn-primary" asp-action="Buscar">Buscar Reserva</a>
 
 <br />
 <br />
@@ -11,34 +10,33 @@
 <table class="table table-striped">
     <thead>
         <tr>
-            <th>Id</th>
-            <th>Asociado</th>
-            <th>Telefono</th>
-            <th>Correo</th>
-            <th>Identificacion</th>
-            <th>Monto</th>
-            <th>Fecha Nacimiento</th>
-            <th>Fecha Registro</th>
+
+            <th>Usuario</th>
+            <th>Encargado</th>
+            <th>Laboratorio</th>
             <th>Acciones</th>
         </tr>
     </thead>
     <tbody>
         @foreach (var r in Model)
         {
-
-
-            ////tutorial///
             <tr>
-                <td>@r.Id</td>
-                <td>@r.NombreDelAsociado</td>
-                <td>@r.Telefono</td>
-                <td>@r.Correo</td>
-                <td>@r.Identificacion</td>
-                <td>₡@r.MontoTotal</td>
-                <td>@r.FechaNacimiento.ToShortDateString()</td>
-                <td>@r.FechaDeRegistro.ToShortDateString()</td>
+                <td>@r.User.Nombre</td>
+                <td>@r.Laboratory.Responsable</td>
+                <td>@r.Laboratory.Nombre</td>
                 <td>
-                    <a class="btn btn-info" asp-action="Detalle" asp-route-id="@r.Id">Detalle</a>
+                    <a class="btn btn-info"
+                       asp-action="Detalle"
+                       asp-route-id="@r.IdReserva">
+
+                        Detalle
+                    </a>                       
+                    <a class="btn btn-danger"
+                       asp-action="Delete" asp-route-id="@r.IdReserva"
+                       role="button">Eliminar</a>
+                    <a class="btn btn-warning"
+                       asp-action="Edit" asp-route-id="@r.IdReserva"
+                       role="button">Editar</a>
                 </td>
             </tr>
         }

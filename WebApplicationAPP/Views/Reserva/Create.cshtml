@@ -7,42 +7,27 @@
     @Html.AntiForgeryToken()
 
     <div class="mb-3">
-        <label asp-for="NombreDelAsociado"></label>
-        <input asp-for="NombreDelAsociado" class="form-control" />
-    </div>
-    <div class="mb-3">
-        <label asp-for="Identificacion"></label>
-        <input asp-for="Identificacion" class="form-control" />
-    </div>
-    <div class="mb-3">
-        <label asp-for="Telefono"></label>
-        <input asp-for="Telefono" class="form-control" />
-    </div>
-    <div class="mb-3">
-        <label asp-for="Correo"></label>
-        <input asp-for="Correo" class="form-control" type="email" />
-    </div>
-    <div class="mb-3">
-        <label asp-for="FechaNacimiento"></label>
-        <input asp-for="FechaNacimiento" type="date" class="form-control" />
-    </div>
-    <div class="mb-3">
-        <label asp-for="Direccion"></label>
-        <input asp-for="Direccion" class="form-control" />
-    </div>
-    <div class="mb-3">
-        <label asp-for="FechaDelServicio"></label>
-        <input asp-for="FechaDelServicio" type="date" class="form-control" />
-    </div>
-
-    <input asp-for="FechaDeRegistro" type="hidden" />
-
-    <div class="mb-3">
-        <label>Servicio</label>
-        <select asp-for="IdServicio" class="form-select" asp-items="@(new SelectList(ViewBag.Servicios, "Id", "Nombre"))">
-            <option value="">Seleccione servicio</option>
+        <label asp-for="IdUsuario" class="form-label">Usuario</label>
+        <select asp-for="IdUsuario"
+                class="form-select"
+                asp-items="@(new SelectList(ViewBag.Usuarios, "IdUsuario", "Nombre"))">
+            <option value="">Seleccione un usuario</option>
         </select>
+        <span asp-validation-for="IdUsuario" class="text-danger"></span>
     </div>
+
+    <div class="mb-3">
+        <label asp-for="IdLaboratorio" class="form-label">Laboratorio</label>
+        <select asp-for="IdLaboratorio"
+                class="form-select"
+                asp-items="@(new SelectList(ViewBag.Laboratorios, "IdLaboratorio", "Nombre"))">
+            <option value="">Seleccione un laboratorio</option>
+        </select>
+        <span asp-validation-for="IdLaboratorio" class="text-danger"></span>
+    </div>
+
+    <!-- FechaHora se envía automáticamente, el usuario no la edita -->
+    <input asp-for="FechaHora" type="datetime-local" class="form-control d-none" />
 
     <button type="submit" class="btn btn-success">Guardar</button>
     <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
@@ -50,4 +35,15 @@
 
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const inputFecha = document.querySelector('input[name="FechaHora"]');
+            if (inputFecha) {
+                const now = new Date();
+                now.setMinutes(now.getMinutes() - now.getTimezoneOffset());
+                inputFecha.value = now.toISOString().slice(0, 16);
+            }
+        });
+    </script>
 }

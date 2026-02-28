@@ -1,4 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using WebApplicationAPP.Bussines;
 using WebApplicationAPP.Models;
 
 public class ReservaController : Controller
@@ -15,47 +17,65 @@ public class ReservaController : Controller
         return View(_bussines.Listar());
     }
 
-    [HttpGet]
     public IActionResult Create()
     {
-        ViewBag.Servicios = _bussines.ListarServiciosActivos();
+        ViewBag.Usuarios = new SelectList(_bussines.ListarUsuarios(), "Id", "Nombre");
+        ViewBag.Laboratorios = new SelectList(_bussines.ListarLaboratorios(), "Id", "Nombre");
         return View(new Reserva());
     }
 
     [HttpPost]
+    [ValidateAntiForgeryToken]
     public IActionResult Create(Reserva reserva)
     {
         if (!ModelState.IsValid)
         {
-            ViewBag.Servicios = _bussines.ListarServiciosActivos();
+            ViewBag.Usuarios = new SelectList(_bussines.ListarUsuarios(), "Id", "Nombre");
+            ViewBag.Laboratorios = new SelectList(_bussines.ListarLaboratorios(), "Id", "Nombre");
             return View(reserva);
         }
 
         _bussines.AddReserva(reserva);
-        return RedirectToAction("Index");
+        return RedirectToAction(nameof(Index));
     }
 
-    public IActionResult Buscar()
+    public IActionResult Edit(int id)
     {
-        return View();
+        var reserva = _bussines.Buscar(id);
+        if (reserva == null) return NotFound();
+
+        ViewBag.Usuarios = new SelectList(_bussines.ListarUsuarios(), "Id", "Nombre");
+        ViewBag.Laboratorios = new SelectList(_bussines.ListarLaboratorios(), "Id", "Nombre");
+        return View(reserva);
     }
 
     [HttpPost]
-    public IActionResult Buscar(int id)
+    [ValidateAntiForgeryToken]
+    public IActionResult Edit(Reserva reserva)
     {
-        var reserva = _bussines.Buscar(id);
-        if (reserva == null)
+        if (!ModelState.IsValid)
         {
-            ViewBag.Mensaje =
-                "Estimado asociado, no se ha encontrado la reserva, favor realizar una nueva.";
-            return View();
+            ViewBag.Usuarios = new SelectList(_bussines.ListarUsuarios(), "Id", "Nombre");
+            ViewBag.Laboratorios = new SelectList(_bussines.ListarLaboratorios(), "Id", "Nombre");
+            return View(reserva);
         }
 
-        return View("Detalle", reserva);
+        _bussines.EditReserva(reserva);
+        return RedirectToAction(nameof(Index));
     }
 
     public IActionResult Detalle(int id)
     {
-        return View(_bussines.Buscar(id));
+        var reserva = _bussines.Buscar(id);
+        if (reserva == null) return NotFound();
+        return View(reserva);
+    }
+
+    [HttpPost, ActionName("Delete")]
+    [ValidateAntiForgeryToken]
+    public IActionResult DeleteConfirmar(int id)
+    {
+        _bussines.DeleteReserva(id);
+        return RedirectToAction(nameof(Index));
     }
 }
